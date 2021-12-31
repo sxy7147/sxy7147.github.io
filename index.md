@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to Yan Zhao's Homepage
 
-You can use the [editor on GitHub](https://github.com/sxy7147/sxy7147.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
+I am currently in my final year of undergraduate studies in Yuanpei College at Peking University, my supervisor is [Prof. Hao Dong](https://zsdonghao.github.io/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My research interests include computer vision and robotics.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Publications
 
-1. Numbered
-2. List
+#### VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects
 
-**Bold** and _Italic_ and `Code` text
+[Ruihai Wu*](https://warshallrho.github.io/), 
+Yan Zhao*, 
+[Kaichun Mo*](https://cs.stanford.edu/~kaichun/), 
+[Zizheng Guo](https://guozz.cn/), 
+[Yian Wang](https://github.com/galaxy-qazzz), 
+[Tianhao Wu](https://moistchi.github.io/tianhaowu.github.io/), 
+[Qingnan Fan](https://fqnchina.github.io/), 
+[Xuelin Chen](https://xuelin-chen.github.io/), 
+[Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), 
+[Hao Dong](https://zsdonghao.github.io/)
+  
+arXiv:2106.14440 [cs.CV]
 
-[Link](url) and ![Image](src)
-```
+[Paper](https://arxiv.org/pdf/2106.14440.pdf), [Project](https://hyperplane-lab.github.io/vat-mart/), [Video](https://www.youtube.com/watch?v=HjhsLKf1eQY)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+<img src="/vat_mart.gif" width = "300" height = "200" align=center />
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sxy7147/sxy7147.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
