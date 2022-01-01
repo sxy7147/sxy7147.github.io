@@ -13,9 +13,9 @@ My research interests include computer vision and robotics.
 
 #### VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects
 
-[Ruihai Wu](https://warshallrho.github.io/)*, 
-Yan Zhao*, 
-[Kaichun Mo](https://cs.stanford.edu/~kaichun/)*, 
+[Ruihai Wu](https://warshallrho.github.io/)\*,
+Yan Zhao\*, 
+[Kaichun Mo](https://cs.stanford.edu/~kaichun/)\*, 
 [Zizheng Guo](https://guozz.cn/), 
 [Yian Wang](https://github.com/galaxy-qazzz), 
 [Tianhao Wu](https://moistchi.github.io/tianhaowu.github.io/), 
