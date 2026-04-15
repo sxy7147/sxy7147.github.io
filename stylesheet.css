@@ -106,18 +106,30 @@ name {
 }
 
 .one {
-  width: 160px;
-  height: 160px;
+  width: 280px;
+  height: auto;
   position: relative;
 }
 
 .two {
-  width: 160px;
-  height: 160px;
+  width: 280px;
+  height: auto;
   position: absolute;
+  top: 0;
+  left: 0;
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
   -webkit-transition: opacity .2s ease-in-out;
+}
+
+.one img {
+  width: 280px;
+  height: auto;
+  display: block;
+}
+
+.publication > td {
+  padding-bottom: 28px !important;
 }
 
 .fade {
