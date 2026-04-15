@@ -132,6 +132,16 @@ name {
   padding-bottom: 28px !important;
 }
 
+.publication > td:first-child {
+  width: 31% !important;
+  padding-right: 10px !important;
+}
+
+.publication > td:last-child {
+  width: 69% !important;
+  padding-left: 6px !important;
+}
+
 .fade {
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
